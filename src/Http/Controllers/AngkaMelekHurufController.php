@@ -5,7 +5,7 @@ namespace Bantenprov\AngkaMelekHuruf\Http\Controllers;
 /* Require */
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use Bantenprov\BudgetAbsorption\Facades\AngkaMelekHurufFacade;
+use Bantenprov\AngkaMelekHuruf\Facades\AngkaMelekHurufFacade;
 
 /* Models */
 use Bantenprov\AngkaMelekHuruf\Models\Bantenprov\AngkaMelekHuruf\AngkaMelekHuruf;
