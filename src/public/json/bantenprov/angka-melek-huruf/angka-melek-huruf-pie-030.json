@@ -4,18 +4,14 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "Angka Melek Huruf Provinsi Banten",
+      "title": "Angka Melek Huruf 2010",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":7.92,"name":"2010"},
-          {"value":7.95,"name":"2011"},
-          {"value":8.06,"name":"2012"},
-          {"value":8.17,"name":"2013"},
-          {"value":8.19,"name":"2014"},
-          {"value":8.27,"name":"2015"}
+          {"value":96.20,"name":"Provinsi Banten"},
+          {"value":92.21,"name":"Negara Indonesia"}
         ]
       }
     ]
@@ -25,18 +21,99 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "Angka Melek Huruf Negara Indonesia",
+      "title": "Angka Melek Huruf 2011",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":7.46,"name":"2010"},
-          {"value":7.52,"name":"2011"},
-          {"value":7.59,"name":"2012"},
-          {"value":7.61,"name":"2013"},
-          {"value":7.73,"name":"2014"},
-          {"value":7.84,"name":"2015"}
+          {"value":96.25,"name":"Provinsi Banten"},
+          {"value":92.81,"name":"Negara Indonesia"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "Angka Melek Huruf 2012",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":96.51,"name":"Provinsi Banten"},
+          {"value":93.25,"name":"Negara Indonesia"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "Angka Melek Huruf 2013",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":96.87,"name":"Provinsi Banten"},
+          {"value":94.14,"name":"Negara Indonesia"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "Angka Melek Huruf 2014",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":97.24,"name":"Provinsi Banten"},
+          {"value":95.12,"name":"Negara Indonesia"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "Angka Melek Huruf 2015",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":97.37,"name":"Provinsi Banten"},
+          {"value":95.22,"name":"Negara Indonesia"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "title": "Angka Melek Huruf 2016",
+      "yyyy": "2018"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":97.55,"name":"Provinsi Banten"},
+          {"value":95.38,"name":"Negara Indonesia"}
         ]
       }
     ]

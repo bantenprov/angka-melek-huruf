@@ -25,7 +25,7 @@
         <div class="card h-100" style="color: #fff; background-color: #009688;">
           <div class="card-header">
             <i class="fa fa-bar-chart" aria-hidden="true"></i>
-            Angka Melek Huruf Berdasarkan Wilayah
+            Angka Melek Huruf Berdasarkan Tahun
           </div>
           <div class="card-body">
             <angka-melek-huruf-bar-01></angka-melek-huruf-bar-01>
@@ -36,7 +36,7 @@
         <div class="card h-100" style="color: #fff; background-color: #FF9800;">
           <div class="card-header">
             <i class="fa fa-pie-chart" aria-hidden="true"></i>
-            Angka Melek Huruf Berdasarkan Tahun
+            Angka Melek Huruf Berdasarkan Wilayah
           </div>
           <div class="card-body">
             <angka-melek-huruf-pie-01></angka-melek-huruf-pie-01>
@@ -52,7 +52,7 @@
         <div class="card h-100" style="color: #fff; background-color: #F44336;">
           <div class="card-header">
             <i class="fa fa-pie-chart" aria-hidden="true"></i>
-            Angka Melek Huruf Berdasarkan Wilayah
+            Angka Melek Huruf Berdasarkan Tahun
           </div>
           <div class="card-body">
             <angka-melek-huruf-pie-02></angka-melek-huruf-pie-02>
@@ -63,7 +63,7 @@
         <div class="card text-white bg-dark h-100">
           <div class="card-header">
             <i class="fa fa-bar-chart" aria-hidden="true"></i>
-            Angka Melek Huruf Berdasarkan Tahun
+            Angka Melek Huruf Berdasarkan Wilayah
           </div>
           <div class="card-body">
             <angka-melek-huruf-bar-02></angka-melek-huruf-bar-02>

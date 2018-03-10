@@ -4,20 +4,20 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "Angka Melek Huruf 2010",
+      "title": "Angka Melek Huruf 2010 Provinsi Banten",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.33,"name":"Kabupaten Pandeglang"},
-          {"value":5.34,"name":"Kabupaten Lebak"},
-          {"value":7.85,"name":"Kabupaten Tangerang"},
-          {"value":6.07,"name":"Kabupaten Serang"},
-          {"value":9.64,"name":"Kota Tangerang"},
-          {"value":8.71,"name":"Kota Cilegon"},
-          {"value":8.23,"name":"Kota Serang"},
-          {"value":10.86,"name":"Kota Tangerang Selatan"}
+          {"value":96.35,"name":"Kabupaten Pandeglang"},
+          {"value":94.60,"name":"Kabupaten Lebak"},
+          {"value":95.78,"name":"Kabupaten Tangerang"},
+          {"value":95.23,"name":"Kabupaten Serang"},
+          {"value":98.39,"name":"Kota Tangerang"},
+          {"value":98.72,"name":"Kota Cilegon"},
+          {"value":96.47,"name":"Kota Serang"},
+          {"value":98.15,"name":"Kota Tangerang Selatan"}
         ]
       }
     ]
@@ -27,20 +27,20 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "Angka Melek Huruf 2011",
+      "title": "Angka Melek Huruf 2011 Provinsi Banten",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.38,"name":"Kabupaten Pandeglang"},
-          {"value":5.58,"name":"Kabupaten Lebak"},
-          {"value":7.96,"name":"Kabupaten Tangerang"},
-          {"value":6.31,"name":"Kabupaten Serang"},
-          {"value":9.75,"name":"Kota Tangerang"},
-          {"value":8.93,"name":"Kota Cilegon"},
-          {"value":8.39,"name":"Kota Serang"},
-          {"value":10.87,"name":"Kota Tangerang Selatan"}
+          {"value":96.37,"name":"Kabupaten Pandeglang"},
+          {"value":94.82,"name":"Kabupaten Lebak"},
+          {"value":95.86,"name":"Kabupaten Tangerang"},
+          {"value":95.72,"name":"Kabupaten Serang"},
+          {"value":98.41,"name":"Kota Tangerang"},
+          {"value":98.73,"name":"Kota Cilegon"},
+          {"value":96.89,"name":"Kota Serang"},
+          {"value":98.19,"name":"Kota Tangerang Selatan"}
         ]
       }
     ]
@@ -50,20 +50,20 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "Angka Melek Huruf 2012",
+      "title": "Angka Melek Huruf 2012 Provinsi Banten",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.43,"name":"Kabupaten Pandeglang"},
-          {"value":5.70,"name":"Kabupaten Lebak"},
-          {"value":8.07,"name":"Kabupaten Tangerang"},
-          {"value":6.57,"name":"Kabupaten Serang"},
-          {"value":9.76,"name":"Kota Tangerang"},
-          {"value":9.29,"name":"Kota Cilegon"},
-          {"value":8.48,"name":"Kota Serang"},
-          {"value":11.09,"name":"Kota Tangerang Selatan"}
+          {"value":96.41,"name":"Kabupaten Pandeglang"},
+          {"value":95.69,"name":"Kabupaten Lebak"},
+          {"value":95.89,"name":"Kabupaten Tangerang"},
+          {"value":95.75,"name":"Kabupaten Serang"},
+          {"value":98.43,"name":"Kota Tangerang"},
+          {"value":98.77,"name":"Kota Cilegon"},
+          {"value":96.92,"name":"Kota Serang"},
+          {"value":98.51,"name":"Kota Tangerang Selatan"}
         ]
       }
     ]
@@ -73,20 +73,20 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "Angka Melek Huruf 2013",
+      "title": "Angka Melek Huruf 2013 Provinsi Banten",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.44,"name":"Kabupaten Pandeglang"},
-          {"value":5.81,"name":"Kabupaten Lebak"},
-          {"value":8.18,"name":"Kabupaten Tangerang"},
-          {"value":6.65,"name":"Kabupaten Serang"},
-          {"value":9.82,"name":"Kota Tangerang"},
-          {"value":9.60,"name":"Kota Cilegon"},
-          {"value":8.56,"name":"Kota Serang"},
-          {"value":11.48,"name":"Kota Tangerang Selatan"}
+          {"value":96.78,"name":"Kabupaten Pandeglang"},
+          {"value":96.05,"name":"Kabupaten Lebak"},
+          {"value":96.37,"name":"Kabupaten Tangerang"},
+          {"value":96.04,"name":"Kabupaten Serang"},
+          {"value":98.48,"name":"Kota Tangerang"},
+          {"value":98.87,"name":"Kota Cilegon"},
+          {"value":97.35,"name":"Kota Serang"},
+          {"value":98.62,"name":"Kota Tangerang Selatan"}
         ]
       }
     ]
@@ -96,43 +96,20 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "title": "Angka Melek Huruf 2014",
+      "title": "Angka Melek Huruf 2014 Provinsi Banten",
       "yyyy": "2018"
     },
     "series": [
       {
         "data": [
-          {"value":6.45,"name":"Kabupaten Pandeglang"},
-          {"value":5.84,"name":"Kabupaten Lebak"},
-          {"value":8.20,"name":"Kabupaten Tangerang"},
-          {"value":6.69,"name":"Kabupaten Serang"},
-          {"value":10.20,"name":"Kota Tangerang"},
-          {"value":9.66,"name":"Kota Cilegon"},
-          {"value":8.85,"name":"Kota Serang"},
-          {"value":11.56,"name":"Kota Tangerang Selatan"}
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "category",
-      "region": "Provinsi",
-      "name": "Banten",
-      "title": "Angka Melek Huruf 2015",
-      "yyyy": "2018"
-    },
-    "series": [
-      {
-        "data": [
-          {"value":6.60,"name":"Kabupaten Pandeglang"},
-          {"value":5.86,"name":"Kabupaten Lebak"},
-          {"value":8.22,"name":"Kabupaten Tangerang"},
-          {"value":6.90,"name":"Kabupaten Serang"},
-          {"value":10.20,"name":"Kota Tangerang"},
-          {"value":9.67,"name":"Kota Cilegon"},
-          {"value":8.59,"name":"Kota Serang"},
-          {"value":11.57,"name":"Kota Tangerang Selatan"}
+          {"value":97.47,"name":"Kabupaten Pandeglang"},
+          {"value":98.07,"name":"Kabupaten Lebak"},
+          {"value":97.25,"name":"Kabupaten Tangerang"},
+          {"value":97.61,"name":"Kabupaten Serang"},
+          {"value":98.42,"name":"Kota Tangerang"},
+          {"value":97.45,"name":"Kota Cilegon"},
+          {"value":98.44,"name":"Kota Serang"},
+          {"value":98.94,"name":"Kota Tangerang Selatan"}
         ]
       }
     ]
